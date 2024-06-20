@@ -7,7 +7,7 @@ To YUHAN MA 마위한
 
 ### Feature Introduction
 
-```/invite``` Command: This command allows you to invite a user for a one-on-one private chat. The invited user can use the ```/yes``` or ```/no``` commands to accept or decline the invitation. The ```/out``` command can be used by both parties to simultaneously exit the one-on-one private chat.
+```/invite``` Command: This command allows you to invite a user for a one-on-one private chat. The invited user can use the ```/yes``` or ```/no``` commands to accept or decline the invitation. The ```/out``` command can be used by both parties to simultaneously exit the one-on-one private chat.```/id```you can find you id code.
 
 Press ```p``` or ```P``` to exit the client.
 
